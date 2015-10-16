@@ -1,0 +1,8 @@
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\bin\Debug\SAMM_3_4.exe
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\bin\Debug\SAMM_3_4.pdb
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3.csprojResolveAssemblyReference.cache
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3.csproj.GenerateResource.Cache
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3_4.exe
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3_4.pdb
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3.MainForm.resources
+C:\Alexander\projects\SAaMM_3\SAMM_3_4\obj\x86\Debug\SAMM_3.Properties.Resources.resources
